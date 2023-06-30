@@ -1,0 +1,1 @@
+myobj = {name: 'Matheus', function(){console.log('hello '+ this.name)}}
